@@ -1,0 +1,1 @@
+solution to random competetive programming problems from spoj, codeforces, atcoder and cses.fi 
